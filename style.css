@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header{
+    /* background-color: rgb(255, 138, 183); */
+    background-color: rgb(255, 10, 104);
+    
+    /* background-color: rgb(253, 164, 173); */
+    color: white;
+    width: 100%;
+}
+
+
+
